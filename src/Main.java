@@ -8,9 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Created by user on 18.02.2017.
- */
+
 public class Main {
     public static final String INPUT_FILE = "INPUT.TXT";
     public static final String OUTPUT_FILE = "OUTPUT.TXT";
